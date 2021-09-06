@@ -1,0 +1,18 @@
+{
+   "format_version" : 2,
+   "header" : {
+      "description" : "Different textures for all piglins and hoglins\n§bBy: iHopeICanChangeThis §r| §ePorted: Zekic8768§r\nBedrock §4Live§r Group",
+      "name" : "§6Piglins Plus", 
+      "uuid" : "ee2d735a-93db-4b64-9d9f-f0a8408d5c7b",
+      "version" : [1, 0, 0],
+       "min_engine_version": [1, 14, 0]
+   },
+   "modules" : [
+      {
+         "description" : "Different textures for all piglins and hoglins\n§bBy: iHopeICanChangeThis §r| §ePorted: Zekic8768§r\nBedrock §4Live§r Group",
+         "type" : "resources",
+         "uuid" : "07d67ced-65c4-465f-9086-9be1429f307e",
+        "version" : [1, 0, 0]
+      }
+   ]
+}
