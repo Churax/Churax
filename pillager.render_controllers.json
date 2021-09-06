@@ -5,12 +5,12 @@
       "arrays": {
         "textures": {
           "Array.skins": [
-            "Texture.base",
-            "Texture.base2",
-            "Texture.base3",
-            "Texture.base4",
-            "Texture.base5",
-            "Texture.base6"
+            "Texture.pase",
+            "Texture.pase2",
+            "Texture.pase3",
+            "Texture.pase4",
+            "Texture.pase5",
+            "Texture.pase6"
           ]
         }
       },
@@ -26,13 +26,13 @@
       "arrays": {
         "textures": {
           "Array.biomes": [ 
-            "Texture.plains",
-            "Texture.desert",
-            "Texture.jungle",
-            "Texture.savanna",
-            "Texture.snow",
-            "Texture.swamp",
-            "Texture.taiga"
+            "Texture.plainsp",
+            "Texture.desertp",
+            "Texture.junglep",
+            "Texture.savannap",
+            "Texture.snowp",
+            "Texture.swampp",
+            "Texture.taigap"
           ]
         }
       },
