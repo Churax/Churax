@@ -7,22 +7,22 @@
         "default": "pillager"
       },
       "textures": {
-        // Base Textures - Vanilla Minecraft only has one such texture, rename these for resource packs desiring variety
-        "base": "textures/entity/pillager/pillager",
-        "base2": "textures/entity/pillager/pillager",
-        "base3": "textures/entity/pillager/pillager",
-        "base4": "textures/entity/pillager/pillager",
-        "base5": "textures/entity/pillager/pillager",
-        "base6": "textures/entity/pillager/pillager",
+        // Base Textures - Minecraft only has one such texture, rename these for resource packs desiring variety
+        "pase": "textures/entity/pillager/pillager",
+        "pase2": "textures/entity/pillager/pillager",
+        "pase3": "textures/entity/pillager/pillager",
+        "pase4": "textures/entity/pillager/pillager",
+        "pase5": "textures/entity/pillager/pillager",
+        "pase6": "textures/entity/pillager/pillager",
 
         // Biome Layer
-        "desert": "textures/entity/pillager/biomes/biome_desert",
-        "jungle": "textures/entity/pillager/biomes/biome_jungle",
-        "plains": "textures/entity/pillager/biomes/biome_plains",
-        "savanna": "textures/entity/pillager/biomes/biome_savanna",
-        "snow": "textures/entity/pillager/biomes/biome_snow",
-        "swamp": "textures/entity/pillager/biomes/biome_swamp",
-        "taiga": "textures/entity/pillager/biomes/biome_taiga",
+        "desertp": "textures/entity/pillager/biomes/biome_desert",
+        "junglep": "textures/entity/pillager/biomes/biome_jungle",
+        "plainsp": "textures/entity/pillager/biomes/biome_plains",
+        "savannap": "textures/entity/pillager/biomes/biome_savanna",
+        "snowp": "textures/entity/pillager/biomes/biome_snow",
+        "swampp": "textures/entity/pillager/biomes/biome_swamp",
+        "taigap": "textures/entity/pillager/biomes/biome_taiga",
       },
       "geometry": {
         "default": "geometry.pillager"
