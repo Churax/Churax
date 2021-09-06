@@ -1,17 +1,17 @@
 {
    "format_version" : 2,
    "header" : {
-      "description" : "Different textures for all piglins and hoglins\n§bBy: iHopeICanChangeThis §r| §ePorted: Zekic8768§r\nBedrock §4Live§r Group",
-      "name" : "§6Piglins Plus", 
-      "uuid" : "ee2d735a-93db-4b64-9d9f-f0a8408d5c7b",
+      "description" : "a texture pack that changes pillagers depending on the biome like villagers",
+      "name" : "Fresh Pillagers", 
+      "uuid" : "49ccab27-8191-44c5-b12d-ae272829c3a8",
       "version" : [1, 0, 0],
        "min_engine_version": [1, 14, 0]
    },
    "modules" : [
       {
-         "description" : "Different textures for all piglins and hoglins\n§bBy: iHopeICanChangeThis §r| §ePorted: Zekic8768§r\nBedrock §4Live§r Group",
+         "description" : "a texture pack that changes pillagers depending on the biome like villagers",
          "type" : "resources",
-         "uuid" : "07d67ced-65c4-465f-9086-9be1429f307e",
+         "uuid" : "6c1c93ae-0f00-4860-8127-70eeeeb986be",
         "version" : [1, 0, 0]
       }
    ]
