@@ -3,7 +3,7 @@
     "header": {
         "description": "pillager change biomes",
         "name": "Fresh Pillagers",
-        "uuid": "3decf4e2-9f03-11eb-a8b3-0242ac130003",
+        "uuid": "e291d098-4787-4efb-9aa3-126b9290e591",
         "version": [
             2,
             0,
@@ -19,7 +19,7 @@
         {
             "description": "adapted mobs",
             "type": "resources",
-            "uuid": "3decf79e-9f03-11eb-a8b3-0242ac130003",
+            "uuid": "2588325c-d320-4766-9371-63d66bc97126",
             "version": [
                 2,
                 0,
