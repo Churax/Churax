@@ -107,32 +107,32 @@
       },
       "am:desertp": {
         "minecraft:variant": {
-          "value": 19
+          "value": 2
         }
       },
       "am:savannap": {
         "minecraft:variant": {
-          "value": 20
+          "value": 3
         }
       },
       "am:snowp": {
         "minecraft:variant": {
-          "value": 21
+          "value": 4
         }
       },
       "am:taigap": {
         "minecraft:variant": {
-          "value": 22
+          "value": 5
         }
       },
       "am:junglep": {
         "minecraft:variant": {
-          "value": 23
+          "value": 6
         }
       },
       "am:swampp": {
         "minecraft:variant": {
-          "value": 24
+          "value": 7
         },
         "minecraft:equipment": {
           "table": "loot_tables/entities/pillager_captain_equipment.json",
@@ -389,6 +389,113 @@
           ]
         }
       },
+            "randomize": [
+              {
+                "filters": {
+                  "any_of": [
+                    {
+                      "test": "has_biome_tag",
+                      "value": "plains"
+                    }
+                  ]
+                },
+                "add": {
+                  "component_groups": [
+                    "am:plainsp"
+                  ]
+                }
+              },
+              {
+                "filters": {
+                  "any_of": [
+                    {
+                      "test": "has_biome_tag",
+                      "value": "desert"
+                    }
+                  ]
+                },
+                "add": {
+                  "component_groups": [
+                    "am:desertp"
+                  ]
+                }
+              },
+              {
+               "filters": {
+                  "any_of": [
+                    {
+                      "test": "has_biome_tag",
+                      "value": "snow"
+                    }
+                  ]
+                },
+                "add": {
+                  "component_groups": [
+                    "am:snowp"
+                  ]
+                }
+              },
+              {  
+                "filters": {
+                  "any_of": [
+                    {
+                      "test": "has_biome_tag",
+                      "value": "taiga"
+                    }
+                  ]
+                },
+                "add": {
+                  "component_groups": [
+                    "am:taigap"
+                  ]
+                }
+              },
+              {
+                "filters": {
+                  "any_of": [
+                    {
+                      "test": "has_biome_tag",
+                      "value": "swamp"
+                    }
+                  ]
+                },
+                "add": {
+                  "component_groups": [
+                    "am:swampp"
+                  ]
+                }
+              },
+              {
+                "filters": {
+                  "any_of": [
+                    {
+                      "test": "has_biome_tag",
+                      "value": "savanna"
+                    }
+                  ]
+                },
+                "add": {
+                  "component_groups": [
+                    "am:savannap"
+                  ]
+                }
+              },
+              {
+                "filters": {
+                  "any_of": [
+                    {
+                      "test": "has_biome_tag",
+                      "value": "jungle"
+                    }
+                  ]
+                },
+                "add": {
+                  "component_groups": [
+                    "am:junglep"
+                  ]
+                }
+              },
+              {
       "minecraft:spawn_for_raid": {
         "add": {
           "component_groups": [
