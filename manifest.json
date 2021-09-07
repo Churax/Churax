@@ -1,14 +1,14 @@
 {
     "format_version": 2,
     "header": {
-        "description": "mobs will never change texture from the biome they spawn in\nnthe persistent setting in the resource pack must be enabled for it to work\nyou can still use non persistent textures without the addon",
+        "description": "pillager change biomes",
         "min_engine_version": [
             1,
             16,
             0
         ],
-        "name": "adapted mobs persistent[BP]",
-        "uuid": "f41f0d8b-92d8-45cf-a389-7cdc0708683d",
+        "name": "Fresh Pillagers",
+        "uuid": "1f30d879-a50f-42be-aa80-df72219fa894",
         "version": [
             2,0,0
         ]
@@ -16,7 +16,7 @@
     "modules": [
         {
             "type": "data",
-            "uuid": "972d3d69-1ba2-43e3-8c13-c6610197aa86",
+            "uuid": "3794423f-d229-4c35-b162-ad3899864ea6",
             "version": [
                 2,
                 0,
