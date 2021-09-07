@@ -7,7 +7,13 @@
         "default": "pillager"
       },
       "textures": {
-        "default": "textures/entity/pillager"
+        "desert": "textures/entity/villager2/biomes/biome_desert",
+        "jungle": "textures/entity/villager2/biomes/biome_jungle",
+        "plains": "textures/entity/villager2/biomes/biome_plains",
+        "savanna": "textures/entity/villager2/biomes/biome_savanna",
+        "snow": "textures/entity/villager2/biomes/biome_snow",
+        "swamp": "textures/entity/villager2/biomes/biome_swamp",
+        "taiga": "textures/entity/villager2/biomes/biome_taiga",
       },
       "geometry": {
         "default": "geometry.pillager"
