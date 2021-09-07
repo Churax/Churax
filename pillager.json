@@ -100,8 +100,39 @@
       "minecraft:illager_squad_captain": {
         "minecraft:is_illager_captain": {
         },
+        "am:plainsp": {
         "minecraft:variant": {
           "value": 1
+        }
+      },
+      "am:desertp": {
+        "minecraft:variant": {
+          "value": 19
+        }
+      },
+      "am:savannap": {
+        "minecraft:variant": {
+          "value": 20
+        }
+      },
+      "am:snowp": {
+        "minecraft:variant": {
+          "value": 21
+        }
+      },
+      "am:taigap": {
+        "minecraft:variant": {
+          "value": 22
+        }
+      },
+      "am:junglep": {
+        "minecraft:variant": {
+          "value": 23
+        }
+      },
+      "am:swampp": {
+        "minecraft:variant": {
+          "value": 24
         },
         "minecraft:equipment": {
           "table": "loot_tables/entities/pillager_captain_equipment.json",
