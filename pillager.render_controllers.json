@@ -5,20 +5,20 @@
     "arrays": {
      "textures": {
       "Array.skins": [
-       "Texture.plainsp",
-       "Texture.desertp",
-       "Texture.savannap",
-       "Texture.junglep",
-       "Texture.swampp",
-       "Texture.taigap",
-       "Texture.snowp"
+       "Texture.plains",
+       "Texture.desert",
+       "Texture.savanna",
+       "Texture.jungle",
+       "Texture.swamp",
+       "Texture.taiga",
+       "Texture.snow"
       ]
      }
     },
     "geometry": "Geometry.default",
     "materials": [ {"*": "Material.default" } ],
             "textures": [
-                "Array.skins[query.variant]"
+              "Array.skins[query.variant]"
             ]
           } 
         }
