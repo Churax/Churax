@@ -1,0 +1,35 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.pillager": {
+            "arrays": {
+                "geometries": {
+                    "Array.geos": [
+                        "Geometry.default"
+                    ]
+                },
+                "textures": {
+                    "Array.skins": [
+                        "Texture.plainsp",
+                        "Texture.desertp",
+                        "Texture.savannap",
+                        "Texture.junglep",
+                        "Texture.swampp",
+                        "Texture.taigap",
+                        "Texture.snowp"
+                    ]
+                }
+            },
+      "materials": [
+                {
+                    "*": "Material.default"
+                },
+                {
+                }
+            ],
+            "textures": [
+                "Array.skins[query.variant]"
+            ]
+        }
+    }
+}
