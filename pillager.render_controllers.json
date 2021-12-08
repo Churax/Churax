@@ -1,10 +1,28 @@
 {
   "format_version": "1.8.0",
   "render_controllers": {
-    "controller.render.pillager": {
-      "geometry": "Geometry.default",
-      "materials": [ { "*": "Material.default" } ],
-      "textures": [ "Texture.default" ]
+   "controller.render.pillager": {
+    "arrays": {
+     "textures": {
+      "Array.skins": [
+       "Texture.plainsp",
+       "Texture.desertp",
+       "Texture.savannap",
+       "Texture.junglep",
+       "Texture.swampp",
+       "Texture.taigap",
+       "Texture.snowp"
+      ]
+     }
+    },
+    "geometry": "Geometry.default",
+    "materials": [ {"*": "Material.default" } ],
+            "textures": [
+                "Array.skins[query.variant]"
+            ]
+          } 
+        }
+      }
     }
   }
-}
+} 
