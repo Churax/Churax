@@ -12,10 +12,11 @@
        "Texture.swampp",
        "Texture.taigap",
        "Texture.snowp"
-       
-                   }
-            },
-      "materials": [
+      ]
+     }
+    },
+    "geometry 
+  "materials": [
                 {
                     "*": "Material.default"
                 },
