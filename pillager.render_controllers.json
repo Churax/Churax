@@ -6,14 +6,14 @@
      "textures": {
       "Array.skins": [
        "Texture.plainsp",
-                        "Texture.desertp",
-                        "Texture.savannap",
-                        "Texture.junglep",
-                        "Texture.swampp",
-                        "Texture.taigap",
-                        "Texture.snowp"
-                    ]
-                }
+       "Texture.desertp",
+       "Texture.savannap",
+       "Texture.junglep",
+       "Texture.swampp",
+       "Texture.taigap",
+       "Texture.snowp"
+       
+                   }
             },
       "materials": [
                 {
