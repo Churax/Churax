@@ -1,0 +1,27 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "pillager change biomes",
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ],
+        "name": "Fresh Pillagers",
+        "uuid": "1f30d879-a50f-42be-aa80-df72219fa894",
+        "version": [
+            2,0,0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "3794423f-d229-4c35-b162-ad3899864ea6",
+            "version": [
+                2,
+                0,
+                0
+            ]
+        }
+    ]
+}
