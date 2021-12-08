@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "adapted mobs",
+            "description": "pillager change biomes",
             "type": "resources",
             "uuid": "2588325c-d320-4766-9371-63d66bc97126",
             "version": [
